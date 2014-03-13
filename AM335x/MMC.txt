@@ -1,8 +1,12 @@
 Interface: MMC0
 IOSET: 1
 PIN: mmc0_dat3.mmc0_dat3 (MODE_0)
-PIN: mmc0_dat3.mmc0_dat3 (MODE_0)
-PIN: mmc0_dat3.mmc0_dat3 (MODE_0)
-PIN: mmc0_dat3.mmc0_dat3 (MODE_0)
-PIN: mmc0_dat3.mmc0_dat3 (MODE_0)
-PIN: i2c0_scl.i2c0_scl (MODE_0)
+PIN: mmc0_dat2.mmc0_dat2 (MODE_0)
+PIN: mmc0_dat1.mmc0_dat1 (MODE_0)
+PIN: mmc0_dat0.mmc0_dat0 (MODE_0)
+PIN: mmc0_clk.mmc0_clk (MODE_0)
+PIN: mmc0_cmd.mmc0_cmd (MODE_0)
+PIN: gmii1_txclk_dat3.mmc0_dat7 (MODE_3)
+PIN: gmii1_rxclk.mmc0_dat6 (MODE_3)
+PIN: gmii1_rxd3.mmc0_dat5 (MODE_3)
+PIN: gmii1_rxd2.mmc0_dat4 (MODE_3)
