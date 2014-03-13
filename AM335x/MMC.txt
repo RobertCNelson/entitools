@@ -34,3 +34,12 @@ PIN: gpmc_ad14.mmc1_dat6_mux0 (MODE_2)
 PIN: gpmc_ad15.mmc1_dat7_mux0 (MODE_2)
 PIN: gpmc_csn1.mmc1_clk_mux0 (MODE_2)
 PIN: gpmc_csn2.mmc1_cmd_mux0 (MODE_2)
+Interface: MMC1
+IOSET: 3
+PIN: gmii1_txd1.mmc1_cmd_mux1 (MODE_6)
+PIN: gmii1_txd0.mmc1_clk_mux1 (MODE_6)
+PIN: gmii1_txclk.mmc1_dat0_mux1 (MODE_4)
+PIN: gmii1_rxclk.mmc1_dat1_mux1 (MODE_4)
+PIN: gmii1_rxd3.mmc1_dat2_mux1 (MODE_4)
+PIN: gmii1_rxd2.mmc1_dat3_mux1 (MODE_4)
+
