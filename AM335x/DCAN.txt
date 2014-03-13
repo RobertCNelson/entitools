@@ -10,3 +10,15 @@ Interface: CAN0
 IOSET: 3
 PIN: uart1_ctsn.dcan0_tx_mux2 (MODE_2)
 PIN: uart1_rtsn.dcan0_rx_mux2 (MODE_2)
+Interface: CAN1
+IOSET: 1
+PIN: uart0_ctsn.dcan1_tx_mux0 (MODE_2)
+PIN: uart0_rtsn.dcan1_rx_mux0 (MODE_2)
+Interface: CAN1
+IOSET: 2
+PIN: uart1_rxd.dcan1_tx_mux1 (MODE_2)
+PIN: uart1_txd.dcan1_rx_mux1 (MODE_2)
+Interface: CAN1
+IOSET: 3
+PIN: mmc0_clk.dcan1_tx_mux2 (MODE_4)
+PIN: mmc0_cmd.dcan1_rx_mux2 (MODE_4)
