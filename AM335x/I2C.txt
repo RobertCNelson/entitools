@@ -1,0 +1,32 @@
+Interface: I2C0
+IOSET: 1
+PIN: i2c0_sda.i2c0_sda (MODE_0)
+PIN: i2c0_scl.i2c0_scl (MODE_0)
+Interface: I2C1
+IOSET: 1
+PIN: gmii1_crs.i2c1_sda_mux0 (MODE_3)
+PIN: gmii1_rxer.i2c1_scl_mux0 (MODE_3)
+Interface: I2C1
+IOSET: 2
+PIN: uart0_ctsn.i2c1_sda_mux1 (MODE_3)
+PIN: uart0_rtsn.i2c1_scl_mux1 (MODE_3)
+Interface: I2C1
+IOSET: 3
+PIN: uart1_rxd.i2c1_sda_mux2 (MODE_3)
+PIN: uart1_txd.i2c1_scl_mux2 (MODE_3)
+Interface: I2C1
+IOSET: 4
+PIN: spi0_d1.i2c1_sda_mux3 (MODE_2)
+PIN: spi0_cs0.i2c1_scl_mux3 (MODE_2)
+Interface: I2C2
+IOSET: 1
+PIN: uart1_ctsn.i2c2_sda_mux0 (MODE_3)
+PIN: uart1_rtsn.i2c2_scl_mux0 (MODE_3)
+Interface: I2C2
+IOSET: 2
+PIN: uart0_rxd.i2c2_sda_mux1 (MODE_3)
+PIN: uart0_txd.i2c2_scl_mux1 (MODE_3)
+Interface: I2C2
+IOSET: 3
+PIN: spi0_sclk.i2c2_sda_mux2 (MODE_2)
+PIN: spi0_d0.i2c2_scl_mux2 (MODE_2)
