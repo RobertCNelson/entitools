@@ -1,0 +1,8 @@
+Interface: MMC0
+IOSET: 1
+PIN: mmc0_dat3.mmc0_dat3 (MODE_0)
+PIN: mmc0_dat3.mmc0_dat3 (MODE_0)
+PIN: mmc0_dat3.mmc0_dat3 (MODE_0)
+PIN: mmc0_dat3.mmc0_dat3 (MODE_0)
+PIN: mmc0_dat3.mmc0_dat3 (MODE_0)
+PIN: i2c0_scl.i2c0_scl (MODE_0)
